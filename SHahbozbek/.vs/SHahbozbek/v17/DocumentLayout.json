@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\SHahbozbek\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35F72286-CA2D-451B-827C-D67C06C89A28}|SHahbozbek\\SHahbozbek.vcxproj|C:\\Users\\user\\source\\repos\\SHahbozbek\\SHahbozbek\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{35F72286-CA2D-451B-827C-D67C06C89A28}|SHahbozbek\\SHahbozbek.vcxproj|solutionrelative:SHahbozbek\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35F72286-CA2D-451B-827C-D67C06C89A28}|SHahbozbek\\SHahbozbek.vcxproj|C:\\Users\\user\\source\\repos\\SHahbozbek\\SHahbozbek\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{35F72286-CA2D-451B-827C-D67C06C89A28}|SHahbozbek\\SHahbozbek.vcxproj|solutionrelative:SHahbozbek\\MyForm.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35F72286-CA2D-451B-827C-D67C06C89A28}|SHahbozbek\\SHahbozbek.vcxproj|C:\\Users\\user\\source\\repos\\SHahbozbek\\SHahbozbek\\MyForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{35F72286-CA2D-451B-827C-D67C06C89A28}|SHahbozbek\\SHahbozbek.vcxproj|solutionrelative:SHahbozbek\\MyForm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35F72286-CA2D-451B-827C-D67C06C89A28}|SHahbozbek\\SHahbozbek.vcxproj|C:\\Users\\user\\source\\repos\\SHahbozbek\\SHahbozbek\\MyForm2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{35F72286-CA2D-451B-827C-D67C06C89A28}|SHahbozbek\\SHahbozbek.vcxproj|solutionrelative:SHahbozbek\\MyForm2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35F72286-CA2D-451B-827C-D67C06C89A28}|SHahbozbek\\SHahbozbek.vcxproj|C:\\Users\\user\\source\\repos\\SHahbozbek\\SHahbozbek\\MyForm1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{35F72286-CA2D-451B-827C-D67C06C89A28}|SHahbozbek\\SHahbozbek.vcxproj|solutionrelative:SHahbozbek\\MyForm1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35F72286-CA2D-451B-827C-D67C06C89A28}|SHahbozbek\\SHahbozbek.vcxproj|C:\\Users\\user\\source\\repos\\SHahbozbek\\SHahbozbek\\MyForm31.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{35F72286-CA2D-451B-827C-D67C06C89A28}|SHahbozbek\\SHahbozbek.vcxproj|solutionrelative:SHahbozbek\\MyForm31.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35F72286-CA2D-451B-827C-D67C06C89A28}|SHahbozbek\\SHahbozbek.vcxproj|C:\\Users\\user\\source\\repos\\SHahbozbek\\SHahbozbek\\MyForm1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{35F72286-CA2D-451B-827C-D67C06C89A28}|SHahbozbek\\SHahbozbek.vcxproj|solutionrelative:SHahbozbek\\MyForm1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35F72286-CA2D-451B-827C-D67C06C89A28}|SHahbozbek\\SHahbozbek.vcxproj|C:\\Users\\user\\source\\repos\\SHahbozbek\\SHahbozbek\\MyForm2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form",
+      "RelativeMoniker": "D:0:0:{35F72286-CA2D-451B-827C-D67C06C89A28}|SHahbozbek\\SHahbozbek.vcxproj|solutionrelative:SHahbozbek\\MyForm2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MyForm1.h",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SHahbozbek\\SHahbozbek\\MyForm1.h",
+              "RelativeDocumentMoniker": "SHahbozbek\\MyForm1.h",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\SHahbozbek\\SHahbozbek\\MyForm1.h",
+              "RelativeToolTip": "SHahbozbek\\MyForm1.h",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAA4BAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-16T15:34:15.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MyForm2.h [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SHahbozbek\\SHahbozbek\\MyForm2.h",
+              "RelativeDocumentMoniker": "SHahbozbek\\MyForm2.h",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\SHahbozbek\\SHahbozbek\\MyForm2.h [Design]",
+              "RelativeToolTip": "SHahbozbek\\MyForm2.h [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-16T14:40:57.897Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyForm1.h [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SHahbozbek\\SHahbozbek\\MyForm1.h",
+              "RelativeDocumentMoniker": "SHahbozbek\\MyForm1.h",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\SHahbozbek\\SHahbozbek\\MyForm1.h [Design]",
+              "RelativeToolTip": "SHahbozbek\\MyForm1.h [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-15T13:40:57.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyForm.h",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SHahbozbek\\SHahbozbek\\MyForm.h",
+              "RelativeDocumentMoniker": "SHahbozbek\\MyForm.h",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\SHahbozbek\\SHahbozbek\\MyForm.h",
+              "RelativeToolTip": "SHahbozbek\\MyForm.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-15T06:46:41.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyForm.h [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SHahbozbek\\SHahbozbek\\MyForm.h",
+              "RelativeDocumentMoniker": "SHahbozbek\\MyForm.h",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\SHahbozbek\\SHahbozbek\\MyForm.h [Design]",
+              "RelativeToolTip": "SHahbozbek\\MyForm.h [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-15T05:20:07.162Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyForm.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SHahbozbek\\SHahbozbek\\MyForm.cpp",
+              "RelativeDocumentMoniker": "SHahbozbek\\MyForm.cpp",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\SHahbozbek\\SHahbozbek\\MyForm.cpp",
+              "RelativeToolTip": "SHahbozbek\\MyForm.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-15T05:20:17.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyForm2.h",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SHahbozbek\\SHahbozbek\\MyForm2.h",
+              "RelativeDocumentMoniker": "SHahbozbek\\MyForm2.h",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\SHahbozbek\\SHahbozbek\\MyForm2.h",
+              "RelativeToolTip": "SHahbozbek\\MyForm2.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAO8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-16T16:37:12.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyForm31.h [Design]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\SHahbozbek\\SHahbozbek\\MyForm31.h",
+              "RelativeDocumentMoniker": "SHahbozbek\\MyForm31.h",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\SHahbozbek\\SHahbozbek\\MyForm31.h [Design]",
+              "RelativeToolTip": "SHahbozbek\\MyForm31.h [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-17T07:08:06.536Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+﻿  MyForm.cpp
+C:\Users\user\source\repos\SHahbozbek\SHahbozbek\MyForm2.h(240,4): error C2065: 'MyForm': undeclared identifier
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\user\source\repos\SHahbozbek\SHahbozbek\MyForm2.h(240,12): error C2065: 'f1': undeclared identifier
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\user\source\repos\SHahbozbek\SHahbozbek\MyForm2.h(240,23): error C2061: syntax error: identifier 'MyForm'
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\user\source\repos\SHahbozbek\SHahbozbek\MyForm2.h(241,4): error C2065: 'f1': undeclared identifier
+  (compiling source file 'MyForm.cpp')
+  
+C:\Users\user\source\repos\SHahbozbek\SHahbozbek\MyForm.h(4,9): error C1083: Cannot open include file: 'MyForm3.h': No such file or directory
+  (compiling source file 'MyForm.cpp')
+  
+  MyForm2.cpp
+C:\Users\user\source\repos\SHahbozbek\SHahbozbek\MyForm2.h(240,4): error C2065: 'MyForm': undeclared identifier
+  (compiling source file 'MyForm2.cpp')
+  
+C:\Users\user\source\repos\SHahbozbek\SHahbozbek\MyForm2.h(240,12): error C2065: 'f1': undeclared identifier
+  (compiling source file 'MyForm2.cpp')
+  
+C:\Users\user\source\repos\SHahbozbek\SHahbozbek\MyForm2.h(240,23): error C2061: syntax error: identifier 'MyForm'
+  (compiling source file 'MyForm2.cpp')
+  
+C:\Users\user\source\repos\SHahbozbek\SHahbozbek\MyForm2.h(241,4): error C2065: 'f1': undeclared identifier
+  (compiling source file 'MyForm2.cpp')
+  
+  MyForm3.cpp
+C:\Users\user\source\repos\SHahbozbek\SHahbozbek\MyForm3.cpp(1,10): error C1083: Cannot open include file: 'MyForm3.h': No such file or directory
+  Generating Code...

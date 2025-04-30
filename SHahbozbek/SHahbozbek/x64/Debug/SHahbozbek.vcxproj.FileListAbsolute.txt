@@ -1,0 +1,5 @@
+C:\Users\user\source\repos\SHahbozbek\SHahbozbek\x64\Debug\SHahbozbek.vcxproj.AssemblyReference.cache
+C:\Users\user\source\repos\SHahbozbek\SHahbozbek\x64\Debug\SHahbozbek.MyForm.resources
+C:\Users\user\source\repos\SHahbozbek\SHahbozbek\x64\Debug\SHahbozbek.vcxproj.GenerateResource.cache
+C:\Users\user\source\repos\SHahbozbek\SHahbozbek\x64\Debug\SHahbozbek.MyForm1.resources
+C:\Users\user\source\repos\SHahbozbek\SHahbozbek\x64\Debug\SHahbozbek.MyForm2.resources
